@@ -1,0 +1,2 @@
+# javascript
+basice javascript 
